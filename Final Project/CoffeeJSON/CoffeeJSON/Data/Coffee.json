@@ -1,0 +1,50 @@
+[
+    {
+        "id" : "1",
+        "name" : "Cappuccino",
+        "description" : "A cappuccino is an espresso-based coffee drink that is traditionally prepared with steamed milk including a layer of milk foam. ",
+        "image" : "cappuccino"
+    },
+    {
+        "id" : "2",
+        "name" : "Latte",
+        "description" : "Caffè latte, often shortened to just latte, is a coffee drink of Italian origin made with espresso and steamed milk, traditionally served in a glass. ",
+        "image" : "latte"
+    },
+    {
+        "id" : "3",
+        "name" : "Mocha",
+        "description" : "A caffè mocha, also called mocaccino, is a chocolate-flavoured warm beverage that is a variant of a caffè latte, commonly served in a glass rather than a mug.",
+        "image" : "mocha"
+    },
+    {
+        "id" : "4",
+        "name" : "Americano",
+        "description" : "Caffè americano, also known as americano or American, is a type of coffee drink prepared by diluting an espresso shot with hot water at a 1:3 to 1:4 ratio, resulting in a drink that retains the complex flavors of espresso, but in a lighter way. Its strength varies with the number of shots of espresso and the amount of water added.",
+        "image" : "americano"
+    },
+    {
+        "id" : "5",
+        "name" : "Flat White",
+        "description" : "A flat white is a coffee drink consisting of espresso and steamed milk. It generally has a higher proportion of espresso to milk than a caffè latte, and lacks the thick layer of foam in a cappuccino. While the origin of the flat white is unclear, various café owners in Australia and New Zealand claim its invention.",
+        "image" : "flatwhite"
+    },
+    {
+        "id" : "6",
+        "name" : "Macchiato",
+        "description" : "Caffè macchiato, sometimes called espresso macchiato, is an espresso coffee drink with a small amount of milk, usually foamed. In Italian, macchiato means \"stained\" or \"spotted\", so the literal translation of caffè macchiato is \"stained coffee\" or \"marked coffee\".",
+        "image" : "macchiato"
+    },
+    {
+        "id" : "7",
+        "name" : "Cortado",
+        "description" : "A cortado is a Spanish beverage consisting of espresso mixed with a roughly equal amount of warm milk to reduce the acidity, although the exact ratios have considerable regional variation. The milk in a cortado is steamed, but not frothy and \"texturized\" as in many Italian coffee drinks.",
+        "image" : "cortado"
+    },
+    {
+        "id" : "8",
+        "name" : "Espresso",
+        "description" : "Espresso is a coffee-brewing method in which a small amount of nearly boiling water is forced under pressure through finely ground coffee beans. Originating from Italy, the French also made significant contributions via the invention of coffee makers, predecessors of today's espresso machines. Espresso can be made with a wide variety of coffee beans and roast degrees. It is one of the world's most popular coffee brewing methods.",
+        "image" : "espresso"
+    }
+]
